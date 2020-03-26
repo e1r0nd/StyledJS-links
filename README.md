@@ -1,6 +1,6 @@
 # StyledJS-links
 
-2020-03-04: [JavaScript V8 engine, Old CSS, and Design (4 Mar'20)](https://github.com/e1r0nd/StyledJS-links/blob/master/2020-03-04.md) : [Video Episode]
+2020-03-04: [JavaScript V8 engine, Old CSS, and Design (4 Mar'20)](https://github.com/e1r0nd/StyledJS-links/blob/master/2020-03-04.md) : [Video Episode](https://www.youtube.com/watch?v=d39wIjX8IvA)
 
 2020-02-14: [Deno, CSS Cascade, and Clean code (14 Feb'20)](https://github.com/e1r0nd/StyledJS-links/blob/master/2020-02-14.md) : [Video Episode](https://www.youtube.com/watch?v=CAFv8ERes0Y)
 
